@@ -12,6 +12,7 @@ This repository collects all agents and links to their demos/posts.
 |-----|----------------------|------------|-------------|
 | 1   | Hydration Assistant  | [Water Tracker](https://github.com/Bhargavvv412/water-tracker) | Tracks your daily water intake and suggests whether you need to drink more. |
 | 2   | Trip Planner         | [Trip Planner](https://github.com/Bhargavvv412/trip-planner) | Helps users plan trips efficiently with AI assistance. |
+| 3   | Startup Analysis     | [Startup Analysis](https://github.com/Bhargavvv412/Startup-Analysis) | Analyzes startups and provides insights for decision making. |
 
 ---
 
