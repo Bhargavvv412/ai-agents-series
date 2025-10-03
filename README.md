@@ -8,11 +8,12 @@ This repository collects all agents and links to their demos/posts.
 
 ## 📌 Agents List
 
-| Day | Agent Name           | Repository | Description |
-|-----|----------------------|------------|-------------|
-| 1   | Hydration Assistant  | [Water Tracker](https://github.com/Bhargavvv412/water-tracker) | Tracks your daily water intake and suggests whether you need to drink more. |
-| 2   | Trip Planner         | [Trip Planner](https://github.com/Bhargavvv412/trip-planner) | Helps users plan trips efficiently with AI assistance. |
-| 3   | Startup Analysis     | [Startup Analysis](https://github.com/Bhargavvv412/Startup-Analysis) | Analyzes startups and provides insights for decision making. |
+| Day | Agent Name               | Repository | Description |
+|-----|--------------------------|------------|-------------|
+| 1   | Hydration Assistant      | [Water Tracker](https://github.com/Bhargavvv412/water-tracker) | Tracks your daily water intake and suggests whether you need to drink more. |
+| 2   | Trip Planner             | [Trip Planner](https://github.com/Bhargavvv412/trip-planner) | Helps users plan trips efficiently with AI assistance. |
+| 3   | Food Nutrition Analyzer  | [Food Nutrition Analyzer](https://github.com/Bhargavvv412/Food-Nutrition-Analyzer) | Analyzes food items and provides nutritional insights. |
+| 4   | Doctor Appointment Booking | [Doctor Appointment Booking](https://github.com/Bhargavvv412/Doctor-Appointment-Booking) | Allows users to book and manage doctor appointments with AI assistance. |
 
 ---
 
