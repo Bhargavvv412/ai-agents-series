@@ -14,6 +14,7 @@ This repository collects all agents and links to their demos/posts.
 | 2   | Trip Planner             | [Trip Planner](https://github.com/Bhargavvv412/trip-planner) | Helps users plan trips efficiently with AI assistance. |
 | 3   | Food Nutrition Analyzer  | [Food Nutrition Analyzer](https://github.com/Bhargavvv412/Food-Nutrition-Analyzer) | Analyzes food items and provides nutritional insights. |
 | 4   | Doctor Appointment Booking | [Doctor Appointment Booking](https://github.com/Bhargavvv412/Doctor-Appointment-Booking) | Allows users to book and manage doctor appointments with AI assistance. |
+|5    |
 
 ---
 
