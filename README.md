@@ -16,6 +16,7 @@ This repository collects all agents and links to their demos/posts.
 | 4   | Doctor Appointment Booking     | [Doctor Appointment Booking](https://github.com/Bhargavvv412/Doctor-Appointment-Booking) | Allows users to book and manage doctor appointments with AI assistance. |
 | 5   | Video Summariser               | [Video Summariser](https://github.com/Bhargavvv412/Video-Summariser) | Summarizes long videos into concise, easy-to-read text highlights. |
 | 6   | Developer Documentation Assistance | [Developer Documentation Assistance](https://github.com/Bhargavvv412/Developer-Documentation-Assistance) | Helps developers quickly generate and refine documentation using AI. |
+| 7   | Automatic Blog Writer          | [Automatic Blog Writer](https://github.com/Bhargavvv412/Automatic-Blog-Writer) | Generates complete, high-quality blog articles automatically using AI. |
 
 ---
 
