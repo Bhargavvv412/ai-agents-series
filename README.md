@@ -18,7 +18,7 @@ This repository collects all agents and links to their demos/posts.
 | 6   | Developer Documentation Assistance | [Developer Documentation Assistance](https://github.com/Bhargavvv412/Developer-Documentation-Assistance) | Helps developers quickly generate and refine documentation using AI. |
 | 7   | Automatic Blog Writer          | [Automatic Blog Writer](https://github.com/Bhargavvv412/Automatic-Blog-Writer) | Generates complete, high-quality blog articles automatically using AI. |
 | 8   | Personal Productivity Assistants | [Personal Productivity Assistants](https://github.com/Bhargavvv412/Personal-Productivity-Assistants) | Boosts daily efficiency by managing tasks, reminders, and productivity habits with AI. |
-| 9   | Custom Web Chatbot             | [Custom Web Chatbot](https://github.com/Bhargavvv412/Custom-Web-Chatbot) | Builds personalized chatbots for any website using AI-powered conversation logic. |
+| 9   | AI-Powered Mental Health Chatbot | [AI-Powered Mental Health Chatbot](https://github.com/Bhargavvv412/AI-Powered-Mental-Health-Chatbot) | Provides emotional support, mood tracking, and mental wellness suggestions using AI empathy modeling. |
 
 ---
 
