@@ -17,6 +17,7 @@ This repository collects all agents and links to their demos/posts.
 | 5   | Video Summariser               | [Video Summariser](https://github.com/Bhargavvv412/Video-Summariser) | Summarizes long videos into concise, easy-to-read text highlights. |
 | 6   | Developer Documentation Assistance | [Developer Documentation Assistance](https://github.com/Bhargavvv412/Developer-Documentation-Assistance) | Helps developers quickly generate and refine documentation using AI. |
 | 7   | Automatic Blog Writer          | [Automatic Blog Writer](https://github.com/Bhargavvv412/Automatic-Blog-Writer) | Generates complete, high-quality blog articles automatically using AI. |
+| 8   | Personal Productivity Assistants | [Personal Productivity Assistants](https://github.com/Bhargavvv412/Personal-Productivity-Assistants) | Boosts daily efficiency by managing tasks, reminders, and productivity habits with AI. |
 
 ---
 
