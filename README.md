@@ -19,6 +19,7 @@ This repository collects all agents and links to their demos/posts.
 | 7   | Automatic Blog Writer          | [Automatic Blog Writer](https://github.com/Bhargavvv412/Automatic-Blog-Writer) | Generates complete, high-quality blog articles automatically using AI. |
 | 8   | Personal Productivity Assistants | [Personal Productivity Assistants](https://github.com/Bhargavvv412/Personal-Productivity-Assistants) | Boosts daily efficiency by managing tasks, reminders, and productivity habits with AI. |
 | 9   | AI-Powered Mental Health Chatbot | [AI-Powered Mental Health Chatbot](https://github.com/Bhargavvv412/AI-Powered-Mental-Health-Chatbot) | Provides emotional support, mood tracking, and mental wellness suggestions using AI empathy modeling. |
+| 10  | Auto-Generating PowerPoint Slides | [Auto-Generating PowerPoint Slides](https://github.com/Bhargavvv412/Auto-Generating-PowerPoint-Slides) | Creates professional PowerPoint presentations automatically from text or topics using AI. |
 
 ---
 
