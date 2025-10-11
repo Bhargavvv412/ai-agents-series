@@ -8,8 +8,8 @@ This repository collects all agents and links to their demos/posts.
 
 ## 📌 Agents List
 
-| Day | Agent Name                     | Repository | Description |
-|-----|--------------------------------|------------|-------------|
+| Day | Agent Name                     | Repository |
+|-----|--------------------------------|------------|
 | 1   | Hydration Assistant            | [Water Tracker](https://github.com/Bhargavvv412/water-tracker) |
 | 2   | Trip Planner                   | [Trip Planner](https://github.com/Bhargavvv412/trip-planner) |
 | 3   | Food Nutrition Analyzer        | [Food Nutrition Analyzer](https://github.com/Bhargavvv412/Food-Nutrition-Analyzer) | 
@@ -21,7 +21,7 @@ This repository collects all agents and links to their demos/posts.
 | 9   | AI-Powered Mental Health Chatbot | [AI-Powered Mental Health Chatbot](https://github.com/Bhargavvv412/AI-Powered-Mental-Health-Chatbot) |
 | 10  | Auto-Generating PowerPoint Slides | [Auto-Generating PowerPoint Slides](https://github.com/Bhargavvv412/Auto-Generating-PowerPoint-Slides) |
 | 11  | Automatic Questions Generator  | [Automatic Questions Generator](https://github.com/Bhargavvv412/Automatic-Questions-Generator) |
-|12  | Telegram-Chatbot |[Telegram Chatbot]https://github.com/Bhargavvv412/Telegram-Chatbot |
+|12  | Telegram-Chatbot |[Telegram Chatbot](https://github.com/Bhargavvv412/Telegram-Chatbot) |
 
 ---
 
