@@ -25,6 +25,7 @@ This repository collects all agents and links to their demos/posts.
 |13   | Data Cleaning and Preprocessing|[Data Cleaning and Preprocessing](https://github.com/Bhargavvv412/Data-Cleaning-and-Preprocessing) |
 |14   |Video Caption Generator|[Video Caption Generator](https://github.com/Bhargavvv412/Video-Caption-Generator)|
 |15  | AutoReadme|[AutoReadme](https://github.com/Bhargavvv412/AutoReadme)|
+|16  |Doctor Diagnosis Agent|[Doctor Diagnosis Agent](https://github.com/Bhargavvv412/Doctor-Diagnosis-Agent)|
 ---
 
 *(New agents will be added in the table as the series continues 🚀)*
