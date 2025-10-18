@@ -27,6 +27,7 @@ Notion Commimg Soonnnn....!
 |15  | AutoReadme|[AutoReadme](https://github.com/Bhargavvv412/AutoReadme)|
 |16  |Doctor Diagnosis Agent|[Doctor Diagnosis Agent](https://github.com/Bhargavvv412/Doctor-Diagnosis-Agent)|
 |17  |Recruitment Agent|[Recruitment Agent](https://github.com/Bhargavvv412/Recruitment-Agent)|
+|18|Analysis Agent|[Analysis Agent](https://github.com/Bhargavvv412/Analysis-Agent)|
 ---
 
 *(New agents will be added in the table as the series continues 🚀)*
