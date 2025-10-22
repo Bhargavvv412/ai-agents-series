@@ -29,8 +29,9 @@ Notion Commimg Soonnnn....!
 |17  |Recruitment Agent|[Recruitment Agent](https://github.com/Bhargavvv412/Recruitment-Agent)|
 |18|Analysis Agent|[Analysis Agent](https://github.com/Bhargavvv412/Analysis-Agent)|
 |19|Complete LangChain Ecosystem|[Complete LangChain Ecosystem](https://github.com/Bhargavvv412/Complete-LangChain-Ecosystem)|
-|20|Task Management Agent|[Task Management Agent](https://github.com/Bhargavvv412/Task-Management-Agent)|
-|21 |Shopping Partner|[Shopping Partner](https://github.com/Bhargavvv412/Shopping-Partner)|
+|20 | Creative Story Generator | [Creative Story Generator](https://github.com/Bhargavvv412/Creative-Story-Generator)|
+|21|Task Management Agent|[Task Management Agent](https://github.com/Bhargavvv412/Task-Management-Agent)|
+|22 |Shopping Partner|[Shopping Partner](https://github.com/Bhargavvv412/Shopping-Partner)|
 ---
 
 *(New agents will be added in the table as the series continues 🚀)*
