@@ -35,7 +35,7 @@ Notion Commimg Soonnnn....!
 |23|Legal Agent|[Legal Agent](https://github.com/Bhargavvv412/Legal-Agent)|
 |24| Roadmap Agent |[Roadmap Agent](https://github.com/Bhargavvv412/Roadmap-Agent)|
 |25|Code Review Agent|[Code Review Agent](https://github.com/Bhargavvv412/Code-Review-Agent)|
-|26| |[Social Media Content Agent](https://github.com/Bhargavvv412/Social-Media-Content-Agent)|
+|26| Social Media Content Agent |[Social Media Content Agent](https://github.com/Bhargavvv412/Social-Media-Content-Agent)|
 ---
 
 *(New agents will be added in the table as the series continues 🚀)*
