@@ -37,6 +37,8 @@ Notion Commimg Soonnnn....!
 |25|Code Review Agent|[Code Review Agent](https://github.com/Bhargavvv412/Code-Review-Agent)|
 |26| Social Media Content Agent |[Social Media Content Agent](https://github.com/Bhargavvv412/Social-Media-Content-Agent)|
 |27|Fitness Coach Agent|[Fitness-Coach-Agent](https://github.com/Bhargavvv412/Fitness-Coach-Agent)|
+|28|Personal AI Librarian|[Personal-AI-Librarian](https://github.com/Bhargavvv412/Personal-AI-Librarian)|
+|29|Recipe Generator Agent|[Recipe Generator Agent](https://github.com/Bhargavvv412/Recipe-Generator-Agent)|
 ---
 
 *(New agents will be added in the table as the series continues 🚀)*
