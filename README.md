@@ -39,6 +39,7 @@ Notion Commimg Soonnnn....!
 |27|Fitness Coach Agent|[Fitness-Coach-Agent](https://github.com/Bhargavvv412/Fitness-Coach-Agent)|
 |28|Personal AI Librarian|[Personal-AI-Librarian](https://github.com/Bhargavvv412/Personal-AI-Librarian)|
 |29|Recipe Generator Agent|[Recipe Generator Agent](https://github.com/Bhargavvv412/Recipe-Generator-Agent)|
+|30|Research Assistant|[Research Assistant](https://github.com/Bhargavvv412/Research-Assistant)|
 ---
 
 *(New agents will be added in the table as the series continues 🚀)*
